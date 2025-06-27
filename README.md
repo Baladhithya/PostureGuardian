@@ -43,7 +43,9 @@ TinyML brings Machine Learning to embedded devices with extremely low resource f
 
 👥 Authors
 Baladhithya T 
+
 S. Krithik Rishi
+
 Mentor: Dr. Yokesh Babu D, VIT University
 
 📽️ [Watch on YouTube](https://youtu.be/8XapK43eMfQ?si=fEIxYqNx7RbCLTOX)
