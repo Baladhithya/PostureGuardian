@@ -42,6 +42,7 @@ TinyML brings Machine Learning to embedded devices with extremely low resource f
 - **Classes**: Good Posture, Bad Posture
 
 👥 Authors
+
 Baladhithya T 
 
 S. Krithik Rishi
